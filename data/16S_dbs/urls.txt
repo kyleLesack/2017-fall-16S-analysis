@@ -1,0 +1,12 @@
+# Data Sources
+
+## 16S Database Nomenclature
+
+SILVA nomenclature contained in the following FASTA files. Note that a given name may be repeated due to multiple sequences being classified to a specific organism.
+
+https://www.arb-silva.de/fileadmin/silva_databases/release_128/Exports/SILVA_128_SSURef_tax_silva_trunc.fasta.gz
+https://www.arb-silva.de/fileadmin/silva_databases/release_128/Exports/SILVA_128_SSURef_Nr99_tax_silva_trunc.fasta.gz
+
+The nomenclature is also available in the following taxonomy file. Here, names only occur once (regardless of multiple sequences representing a given organism).
+
+https://www.arb-silva.de/fileadmin/silva_databases/release_128/Exports/taxonomy/tax_slv_ssu_128.txt
